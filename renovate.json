@@ -1,0 +1,6 @@
+{
+  "lockFileMaintenance": {
+    "enabled": false,
+    "schedule": ["at any time"],
+  }
+}
